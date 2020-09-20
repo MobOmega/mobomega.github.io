@@ -29,3 +29,20 @@ p {
   color: darkslategray;
 
 }
+
+ol {
+  font-family: ubuntu;
+  font-size: 20px;
+  text-align: left;
+  color: darkslategray;
+
+}
+
+
+ul {
+  font-family: ubuntu;
+  font-size: 20px;
+  text-align: left;
+  color: darkslategray;
+
+}
