@@ -1,0 +1,31 @@
+h1 {
+  font-family: ubuntu;
+  font-size: 50px;
+  text-align: center;
+  color: darkslategray;
+
+}
+
+h3 {
+  font-family: ubuntu;
+  font-size: 30px;
+  text-align: left;
+  color: darkslategray;
+
+}
+
+h4 {
+  font-family: ubuntu;
+  font-size: 24px;
+  text-align: left;
+  color: darkslategray;
+
+}
+
+p {
+  font-family: ubuntu;
+  font-size: 20px;
+  text-align: left;
+  color: darkslategray;
+
+}
