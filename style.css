@@ -1,108 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;700&display=swap');
+
 body {
-  background-color: #20232a;
+  background-color: #131313;
+  color: ghostwhite;
+  font-family: ubuntu;
+}
+
+.title {
+    background-color: #274568;
+    padding: 5px;
+
 }
 
 h1 {
-  font-family: ubuntu;
   font-size: 50px;
   text-align: center;
-  color: #dfdfdf;
-
-}
-
-h2 {
-  font-family: ubuntu;
-  font-size: 36px;
-  text-align: center;
-  color: #dfdfdf;
 
 }
 
 h3 {
-  font-family: ubuntu;
   font-size: 30px;
-  text-align: center;
-  color: #dfdfdf;
+  background-color: #39618e;
+  background-image: linear-gradient(to right, #39618e , #131313);
+  padding: 8px;
 
 }
 
 h4 {
-  font-family: ubuntu;
   font-size: 24px;
-  text-align: left;
-  color: #dfdfdf;
-  margin-left:100px;
 
 }
 
-h5 {
-  font-family: ubuntu;
-  font-size: 20px;
-  text-align: left;
-  color: #dfdfdf;
-  margin-left:100px;
-
-}
-
-h6 {
-  font-family: ubuntu;
-  font-size: 16px;
-  text-align: center;
-  color: #dfdfdf;
-  margin-left:100px;
-
-
-}
 p {
-  font-family: ubuntu;
   font-size: 20px;
-  text-align: left;
-  color: #dfdfdf;
-  margin-left: 100px;
-  margin-right: 100px;
 
 }
 
 ol {
-  font-family: ubuntu;
   font-size: 20px;
-  text-align: center;
-  color: #dfdfdf;
-  list-style-position: inside;
 
 }
+
 
 ul {
-  font-family: ubuntu;
   font-size: 20px;
-  text-align: center;
-  color: #dfdfdf;
-  list-style-position: inside;
-}
-
-li {
-  font-family: ubuntu;
-  font-size: 20px;
-  text-align: center;
-  color: #dfdfdf;
-  list-style-position: inside;
-}
-
-a {
-  text-decoration: none;
-  font-family: ubuntu;
-  color: #cfcfff;
-
-}
-
-
-img {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 500px;
-  border: solid 5px;
-  border-radius: 25px;
-  border-color: #cfcfff;
+  list-style-type: circle;
 
 }

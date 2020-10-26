@@ -1,2 +1,2 @@
-# giant-panda-bears-website
-A website about giant panda bears for a school project, made using HTML and CSS.
+# mobomega.github.io
+The base website, so I'm not going through as much effort.
