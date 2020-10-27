@@ -77,6 +77,8 @@ body, html {
   color: #ffffff;
   margin-top: 0.5em;
   margin-bottom: 0.5em;
+  margin-left: 100px;
+  margin-right: 100px;
 }
 
 .main-info {
@@ -138,7 +140,7 @@ a, a:link, a:visited {
 }
 
 .links {
-  width: 30%;
+  width: 40%;
   display: flex;
   align-items: center;
   justify-content: space-between;
