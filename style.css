@@ -71,6 +71,14 @@ body, html {
   margin-bottom: 0.5em;
 }
 
+.minor-info {
+  font-size: 20px;
+  text-align: left;
+  color: #ffffff;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+}
+
 .main-info {
   grid-column-start: large;
   grid-column-end: margin;
@@ -106,6 +114,19 @@ body, html {
   margin-top: 10px;
 }
 
+.minor-image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  object-fit: cover;
+  width: 50%;
+  border: solid 4px;
+  border-radius: 25px;
+  border-color: #cfcfff;
+  padding: 4px;
+  margin-top: 10px;
+}
+
 a, a:link, a:visited {
   text-decoration: none !important;
   color: #0074bd !important;
@@ -133,4 +154,3 @@ a, a:link, a:visited {
 .center-text {
   text-align: center;
 }
-
